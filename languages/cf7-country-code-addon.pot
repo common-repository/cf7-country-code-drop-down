@@ -1,0 +1,84 @@
+#, Contact form 7 country code drop down
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Contact form 7 country code drop down\n"
+"POT-Creation-Date: 2022-11-21 14:17+0530\n"
+"PO-Revision-Date: 2022-11-21 14:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cf7-country-code-addon.php:49
+msgid "Required version for PHP is %1$s. Please update your PHP version to activate this plugin."
+msgstr ""
+
+#: cf7-country-code-addon.php:52,64
+msgid "go back"
+msgstr ""
+
+#: cf7-country-code-addon.php:61
+msgid "Required version for WordPress is %1$s. Please update your WordPress version to activate this plugin."
+msgstr ""
+
+#: admin/admin_init.php:18
+msgid "Tel with country code"
+msgstr ""
+
+#: admin/admin_init.php:29
+msgid "Create drop-down field for country code number with flag drop-down."
+msgstr ""
+
+#: admin/admin_init.php:34
+msgid "Is required"
+msgstr ""
+
+#: admin/admin_init.php:38
+msgid "Required field"
+msgstr ""
+
+#: admin/admin_init.php:44
+msgid "Name"
+msgstr ""
+
+#: admin/admin_init.php:49
+msgid "ID attribute"
+msgstr ""
+
+#: admin/admin_init.php:54
+msgid "Class attribute"
+msgstr ""
+
+#: admin/admin_init.php:59
+msgid "Initial Country"
+msgstr ""
+
+#: admin/admin_init.php:62
+msgid "Add a two-letters country code."
+msgstr ""
+
+#: admin/admin_init.php:67
+msgid "Preferred Countries"
+msgstr ""
+
+#: admin/admin_init.php:70
+msgid "Add a two-letters country code separated by pipe sign(|). The countries entered here will be moved at the top of the country drop-down list."
+msgstr ""
+
+#: admin/admin_init.php:75
+msgid "IP Lookup API key"
+msgstr ""
+
+#: admin/admin_init.php:78
+msgid "Please get your API Key at <a href="https://extreme-ip-lookup.com/myaccount" target="_blank">https://extreme-ip-lookup.com/myaccount</a>. If you not insert API key then it will not auto detect country code."
+msgstr ""
